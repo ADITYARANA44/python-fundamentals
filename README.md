@@ -1,60 +1,62 @@
 # 🐍 Python Fundamentals
 
-This repository showcases my complete Python learning journey, covering fundamental to intermediate concepts with practical examples and projects.
+This repository documents my **Python learning journey**, where I practice and implement core Python concepts step-by-step with examples and small projects.
+
+The goal of this repository is to build a **strong Python foundation** for future work in **Data Science and Artificial Intelligence**.
 
 ---
 
 ## 📚 Topics Covered
 
-1. Comments
-2. Hello World Program
-3. Variables
-4. Naming Conventions
-5. Data Types
-6. Strings & Type Conversion
-7. Input & Output
-8. Operators
-9. Conditional Statements
-10. Loops
-11. Mini Project - Number Guessing Game
-12. Functions
-13. Data Structures
-14. Exception Handling
-15. File Handling
+* Comments
+* Hello World Program
+* Variables
+* Naming Conventions
+* Data Types
+* Strings & Type Conversion
+* Input & Output
+* Operators
+* Conditional Statements
+* Loops
+* Mini Project – Number Guessing Game
+* Functions
+* Data Structures
+* Exception Handling
+* File Handling
+* Object-Oriented Programming (OOP)
 
 ---
 
-## 🚀 Projects Included
+## 🧠 Concepts Practiced
+
+* Variables & Data Types
+* Control Flow (if/else)
+* Loops
+* Functions
+* Data Structures
+* Exception Handling
+* File Operations
+* Object-Oriented Programming
+
+---
+
+## 🚀 Project Included
 
 ### 🎯 Number Guessing Game
 
-- Built using loops and conditional statements  
-- Uses random module for number generation  
-- Interactive user input handling  
+A simple Python project built while learning loops and conditionals.
+
+**Features**
+
+* Uses the `random` module
+* Interactive user input
+* Loop-based guessing logic
+* Demonstrates problem-solving with Python
+
+---
 
 ## 🛠️ Technologies Used
 
 * Python 3
-
----
-
-## 📈 Purpose
-
-This repository is part of my journey to learn:
-
-* Data Science
-* Artificial Intelligence
-
----
-
-## 🎯 Goal
-
-I am building strong foundations in Python to transition into:
-- Data Science  
-- Artificial Intelligence  
-
----
-
-## 👨‍💻 Author
-
-Aditya Singh Rana
+* Git
+* GitHub
