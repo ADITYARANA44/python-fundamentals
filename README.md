@@ -60,3 +60,44 @@ A simple Python project built while learning loops and conditionals.
 * Python 3
 * Git
 * GitHub
+
+---
+
+## 📈 Purpose of This Repository
+
+This repository is part of my journey to prepare for careers in:
+
+* **Data Science**
+* **Artificial Intelligence**
+* **Machine Learning**
+
+I am currently focusing on building strong **Python fundamentals**, which are essential before working with libraries such as:
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
+* TensorFlow / PyTorch
+
+---
+
+## 🎯 Learning Goal
+
+Build strong Python programming fundamentals and gradually transition into:
+
+* Data Analysis
+* Machine Learning
+* Artificial Intelligence
+* Real-world AI projects
+
+---
+
+## 👨‍💻 Author
+
+**Aditya Singh Rana**
+B.Tech CSE (3rd Year)
+Interested in **Data Science | Artificial Intelligence**
+
+---
+
+
